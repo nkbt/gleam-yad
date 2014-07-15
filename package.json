@@ -1,8 +1,7 @@
 {
 	"name": "gleam-yad",
 	"description": "Middlewares to connect Gleam with Yad",
-	"version": "0.0.1",
-	"private": true,
+	"version": "0.0.2",
 	"author": {
 		"name": "Nik Butenko",
 		"email": "nik@butenko.me"
@@ -29,7 +28,6 @@
 		"grunt-simple-mocha": "~0.4.0",
 		"grunt-contrib-jshint": "~0.7.2",
 		"grunt-contrib-watch": "~0.5.3",
-		"grunt-contrib-concat": "~0.3.0",
 		"mocha": "~1.17.1",
 		"chai": "~1.9.0",
 		"nock": "~0.27.2",
